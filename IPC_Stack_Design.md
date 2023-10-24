@@ -12,7 +12,7 @@ In the context of Forth applications, the design assumes an even more intriguing
 
 As the cloud computing landscape evolves towards serverless architectures, the need for lightweight, high-performance solutions becomes even more pressing. The IPC Stack-Based Enhancement could very well be the key to accelerating these serverless solutions, ensuring swift execution of ITC and promoting efficient resource utilization. This exploration, rooted in the motivation to address challenges and harness opportunities, aims to reshape the way we perceive and implement IPC in the minimalist world of microkernels and Forth designs.
 
-![](ipc_micrikernel.png.png)
+![](ipc_microkernel_stack.png)
 
 ---
 
